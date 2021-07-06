@@ -1,0 +1,26 @@
+body {
+  background-image: url("./assets/wp5317936-world-map-wallpaper-black.jpg"); /* image must be listed prior to background-color otherwise background-image will be behind the background-color */
+  background-color: #000;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+header {
+  background-color: rgba(225, 225, 225, 0.6);
+  height: 65px;
+  margin-bottom: 25px;
+}
+header h1 {
+  display: block;
+  font-size: 36px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 10px;
+  text-align: center;
+}
+
+section {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
